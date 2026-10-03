@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "TicketTriage"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b85ca7c1-99f0-4be2-a8a8-368dd0446b11"
+  }
+}
